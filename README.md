@@ -1,6 +1,14 @@
-# FastAPI Project Template
+<p align="center">
+  <a href="https://github.com/JRBusiness/FastAPI-Best-Practice"><img src="https://i.imgur.com/mGUSjHf.png" alt="FastAPI"></a>
+</p>
+<p align="center">
+    <em>FastAPI Project Template</em>
+</p>
+<p align="center">
+    <em>A template for building FastAPI applications with PostgreSQL, Redis OM, SQLAlchemy, JWT Authentication, and more.</em>
+</p>
 
-A template for building FastAPI applications with PostgreSQL, Redis OM, SQLAlchemy, JWT Authentication, and more.
+
 
 ## Features
 
